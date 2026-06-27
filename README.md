@@ -1,2 +1,33 @@
 ## Hi there 👋
-Final-year B.Tech Computer Science student at VIT Bhopal University with hands-on experience in machine learning, front-end development, and UI/UX design. Completed a research internship at IIT (ISM) Dhanbad, where I worked on sentiment analysis using RNN architectures and backend development using Laravel. Currently deepening my expertise in Machine Learning through advanced study and practical projects, with a strong focus on model development, optimization, and real-world AI applications. Passionate about building user-centric applications and leveraging AI-driven solutions to solve meaningful problems.
+
+I'm a final-year Computer Science student at VIT Bhopal University with research experience in Machine Learning and Natural Language Processing.
+
+During my internship at IIT (ISM) Dhanbad, I worked on sentiment analysis using Recurrent Neural Networks (RNNs) and developed backend web applications using Laravel.
+
+I'm currently expanding my knowledge in Deep Learning, Large Language Models (LLMs), and backend development while building projects that combine AI with practical software engineering.
+
+
+## Education
+### VIT Bhopal University
+
+B.Tech in Computer Science and Engineering
+
+CGPA: 8.26
+
+# Experience
+## Research Intern | IIT (ISM) Dhanbad
+1. Conducted research on sentiment analysis using RNN models.
+2. Developed backend features using Laravel (PHP).
+3. Worked on AI models for text classification and real-world applications.
+
+# Coding Profile
+## Leetcode
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/hrithema/)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap)
+
+# Connect With Me
+1. LinkedIn: www.linkedin.com/in/hrithema
+2. LeetCode: https://leetcode.com/u/Hrithema/
+3. Email: hrithema@gmail.com
