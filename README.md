@@ -66,7 +66,17 @@ CGPA: 8.26
   />
 </p>
 
-# Connect With Me
-1. LinkedIn: www.linkedin.com/in/hrithema
-2. LeetCode: https://leetcode.com/u/Hrithema/
-3. Email: hrithema@gmail.com
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrithema">
+    <img src="https://img.shields.io/badge/LinkedIn-Hrithema-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Hrithema/">
+    <img src="https://img.shields.io/badge/LeetCode-Hrithema-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:hrithema@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hrithema%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
