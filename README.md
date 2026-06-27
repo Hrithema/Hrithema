@@ -1,5 +1,10 @@
-# Hi, I'm Hrithema! 🚀
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=220&section=header&text=Hi,%20I'm%20Hrithema!&fontSize=55&fontColor=fff&animation=fadeIn" />
+</p>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Fullstack+Developer;Exploring+Large+Language+Models;Exploring+Deep+Learning" alt="Typing SVG" />
+</p>
 
 ### 📚 Learning
 <p align="left">
