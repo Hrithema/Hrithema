@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hrithema! 🚀
+---
+
+### 📚 Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/ADVANCED%20MACHINE%20lEARNING%20MODELS-007ACC?style=for-the-badge&logoWidth=0" />
+  <img src="https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-007ACC?style=for-the-badge&logoWidth=0" />
+</p>
+
+---
 
 I'm a final-year Computer Science student at VIT Bhopal University with research experience in Machine Learning and Natural Language Processing.
 
@@ -14,18 +23,48 @@ B.Tech in Computer Science and Engineering
 
 CGPA: 8.26
 
-# Experience
-## Research Intern | IIT (ISM) Dhanbad
-1. Conducted research on sentiment analysis using RNN models.
-2. Developed backend features using Laravel (PHP).
-3. Worked on AI models for text classification and real-world applications.
+## Experience
+
+### Research Intern | IIT (ISM) Dhanbad
+- Conducted research on sentiment analysis using RNN models.
+- Developed backend features using Laravel (PHP).
+- Worked on AI models for text classification and real-world applications.
 
 # Coding Profile
-## Leetcode
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/hrithema/)
+## 💻 LeetCode
 
+<p align="center">
+  <a href="https://leetcode.com/u/hrithema/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
+  </a>
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap" width="90%" />
+</p>
+
+## 📈 GitHub Dashboard
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hrithema&show_icons=true&theme=dark"
+    width="49%"
+    height="195"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithema&layout=compact&theme=dark"
+    width="49%"
+    height="195"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithema&theme=dark"
+    width="99%"
+    height="195"
+  />
+</p>
 
 # Connect With Me
 1. LinkedIn: www.linkedin.com/in/hrithema
