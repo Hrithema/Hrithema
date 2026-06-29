@@ -9,6 +9,8 @@
 ### 📚 Learning
 <p align="left">
   <img src="https://img.shields.io/badge/ADVANCED%20MACHINE%20lEARNING%20MODELS-007ACC?style=for-the-badge&logoWidth=0" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/LARGE%20LANGUAGE%20MODELS-007ACC?style=for-the-badge&logoWidth=0" />
 </p>
 
