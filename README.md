@@ -40,38 +40,43 @@ CGPA: 8.26
 # Coding Profile
 ## 💻 LeetCode
 
-<p align="center">
+<p >
   <a href="https://leetcode.com/u/hrithema/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap" width="90%" />
+  <img src="https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap" width="40%" />
 </p>
 
 ## 📈 GitHub Dashboard
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api?username=Hrithema&show_icons=true&theme=dark"
     width="49%"
     height="195"
-  />
+  /> -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithema&layout=compact&theme=dark"
     width="49%"
     height="195"
   />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithema&theme=dark"
+    width="49%"
+    height="195"
+  />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithema&theme=dark"
     width="99%"
     height="195"
   />
-</p>
+</p> -->
 
 ## 📫 Connect With Me
 
