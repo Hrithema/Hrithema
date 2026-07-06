@@ -50,9 +50,9 @@ CGPA: 8.26
   <img src="https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap" width="40%" />
 </p>
 
-## 📈 GitHub Dashboard
+<!-- <h1> ## 📈 GitHub Dashboard</h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Hrithema&show_icons=true&theme=dark"
     width="49%"
@@ -62,13 +62,13 @@ CGPA: 8.26
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithema&layout=compact&theme=dark"
     width="49%"
     height="195"
-  />
-  <img
+  /> -->
+  <!-- <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithema&theme=dark"
     width="49%"
     height="195"
   />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img
