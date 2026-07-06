@@ -53,11 +53,11 @@ CGPA: 8.26
 ## 📈 GitHub Dashboard
 
 <p align="center">
-  <!-- <img
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Hrithema&show_icons=true&theme=dark"
     width="49%"
     height="195"
-  /> -->
+  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithema&layout=compact&theme=dark"
     width="49%"
