@@ -50,34 +50,20 @@ CGPA: 8.26
   <img src="https://leetcard.jacoblin.cool/hrithema?theme=dark&ext=heatmap" width="40%" />
 </p>
 
-<!-- <h1> ## 📈 GitHub Dashboard</h1> -->
+## ⭐Badges
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hrithema&show_icons=true&theme=dark"
-    width="49%"
-    height="195"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithema&layout=compact&theme=dark"
-    width="49%"
-    height="195"
-  /> -->
-  <!-- <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithema&theme=dark"
-    width="49%"
-    height="195"
-  />
-</p> -->
+<p align="center">
+  <a href="https://www.credly.com/badges/a8bebd43-3a4a-4527-b979-4fec66282573/public_url">
+    <img src="assets/badge1.png" width="150" alt="AWS Badge">
+  </a>
+  <a href="https://www.credly.com/badges/5b507db7-f26e-499f-a3aa-14dde73148e5/public_url">
+    <img src="assets/badge2.png" width="150" alt="AWS Badge">
+  </a>
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithema&theme=dark"
-    width="99%"
-    height="195"
-  />
-</p> -->
-
+  <a href="https://www.credly.com/badges/477be07d-8936-455e-8a8c-0a18d37c1b85/public_url">
+    <img src="assets/badge3.png" width="150" alt="AWS Badge">
+  </a>
+</p>
 ## 📫 Connect With Me
 
 <p align="center">
