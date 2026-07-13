@@ -67,6 +67,7 @@ CGPA: 8.26
     <img src="assets/badge-4.png" width="120" alt="Google IT Support">
   </a>
 </p>
+
 ## 📫 Connect With Me
 
 <p align="center">
