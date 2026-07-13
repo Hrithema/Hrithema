@@ -54,17 +54,17 @@ CGPA: 8.26
 
 <p align="center">
   <a href="https://www.credly.com/badges/a8bebd43-3a4a-4527-b979-4fec66282573/public_url">
-    <img src="assets/badge1.png" width="150" alt="AWS Badge (Getting Started with Databases)">
+    <img src="assets/badge1.png" width="120" alt="AWS Badge (Getting Started with Databases)">
   </a>
   <a href="https://www.credly.com/badges/5b507db7-f26e-499f-a3aa-14dde73148e5/public_url">
-    <img src="assets/badge2.png" width="150" alt="AWS Badge (Getting started with Networking)">
+    <img src="assets/badge2.png" width="120" alt="AWS Badge (Getting started with Networking)">
   </a>
 
   <a href="https://www.credly.com/badges/477be07d-8936-455e-8a8c-0a18d37c1b85/public_url">
-    <img src="assets/badge3.png" width="150" alt="AWS Educate (Getting started with Storage)">
+    <img src="assets/badge3.png" width="120" alt="AWS Educate (Getting started with Storage)">
   </a>
   <a href="https://www.credly.com/badges/0a513b6a-9de8-4d1d-bc82-50b4ad1b6f03/public_url">
-    <img src="assets/badge-4.png" width="150" alt="Google IT Support">
+    <img src="assets/badge-4.png" width="120" alt="Google IT Support">
   </a>
 </p>
 ## 📫 Connect With Me
