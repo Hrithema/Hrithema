@@ -63,6 +63,9 @@ CGPA: 8.26
   <a href="https://www.credly.com/badges/477be07d-8936-455e-8a8c-0a18d37c1b85/public_url">
     <img src="assets/badge3.png" width="150" alt="AWS Badge">
   </a>
+  <a href="https://www.credly.com/badges/0a513b6a-9de8-4d1d-bc82-50b4ad1b6f03/public_url">
+    <img src="assets/badge-4.png" width="150" alt="AWS Badge">
+  </a>
 </p>
 ## 📫 Connect With Me
 
